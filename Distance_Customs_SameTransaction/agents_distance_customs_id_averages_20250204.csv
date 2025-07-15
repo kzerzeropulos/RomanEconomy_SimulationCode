@@ -1,0 +1,111 @@
+Agent ID,Agent Class,Trade Behavior,Active,Total Wealth,TarrPottery,EMPottery,IberianPottery,AdriaticPottery,AegeanPottery,EgyptianPottery,WMPottery,NAPottery,BaeticanPottery,GallicPottery,ItalianPottery
+1,Adria,conservative_trade,False,93.1,1.3,2.2,1.4,0.7,0.9,0.8,1.1,0.9,1.5,1.3,1.5
+2,Adria,random_trade,False,220.1,1.5,0.9,1.8,1.6,1.2,1.6,1.8,1.1,1.6,1.3,1.8
+3,Adria,aggressive_trade,False,208.3,0.9,2.1,1.6,1.5,1.0,2.4,1.9,0.8,2.6,2.3,1.7
+4,Adria,conservative_trade,False,114.0,1.1,1.3,1.5,1.2,1.1,0.8,1.7,1.3,1.0,1.5,1.2
+5,Adria,conservative_trade,False,265.3,0.9,1.4,1.5,1.0,1.7,0.6,1.4,0.9,1.3,1.2,1.8
+6,Adria,aggressive_trade,False,240.1,2.3,1.8,1.6,1.9,2.2,1.6,1.6,2.7,2.3,1.4,2.3
+7,Adria,aggressive_trade,False,365.8,2.0,2.3,1.5,2.1,1.1,1.6,2.3,1.5,2.1,2.5,2.6
+8,Adria,random_trade,False,207.7,1.5,1.4,2.0,2.0,1.3,2.0,0.7,1.7,1.4,1.5,1.6
+9,Adria,random_trade,False,195.5,1.6,1.2,1.8,0.6,1.2,1.2,0.9,1.7,1.7,2.2,1.2
+10,Adria,conservative_trade,False,338.6,1.0,2.5,1.7,1.5,0.9,1.4,1.2,0.9,0.8,0.9,1.6
+11,Aegean,random_trade,False,149.09925000002505,2.4,1.7,1.8,1.3,1.4,1.7,1.3,1.4,1.5,2.1,1.8
+12,Aegean,random_trade,False,215.73150000000456,1.6,1.4,2.3,1.3,1.9,1.3,1.6,1.3,1.7,1.3,1.0
+13,Aegean,random_trade,False,339.0190000000167,1.2,1.7,1.3,1.8,1.7,1.8,1.8,2.5,1.3,1.6,2.0
+14,Aegean,random_trade,False,224.72625000002782,1.6,0.9,1.7,1.5,1.6,1.9,2.0,1.5,1.6,2.2,1.4
+15,Aegean,aggressive_trade,False,206.4930000000242,1.4,2.0,2.4,2.5,2.8,2.4,2.4,1.7,1.2,1.4,1.8
+16,Aegean,aggressive_trade,False,151.28775000000778,2.1,2.5,2.2,2.1,2.6,1.5,2.5,1.5,2.4,2.0,1.2
+17,Aegean,aggressive_trade,False,244.48325000001847,1.8,2.2,1.6,2.6,2.7,2.1,1.2,2.7,1.8,1.6,1.4
+18,Aegean,aggressive_trade,False,134.92600000001818,2.3,2.3,1.8,1.9,2.3,1.4,1.7,2.8,1.4,3.5,1.4
+19,Aegean,conservative_trade,False,261.922500000011,1.2,1.4,1.3,0.9,1.2,1.7,2.1,1.2,1.5,1.0,0.9
+20,Aegean,conservative_trade,False,303.03150000001943,1.9,1.1,1.0,1.5,0.7,1.2,2.0,1.2,1.0,1.1,0.9
+21,Baetica,aggressive_trade,False,276.6897500000072,2.1,1.7,1.9,1.7,2.4,3.0,1.2,1.7,2.4,2.5,1.4
+22,Baetica,random_trade,False,177.75900000003975,1.5,2.4,1.8,2.4,1.9,1.1,2.0,2.1,1.5,1.6,0.8
+23,Baetica,conservative_trade,False,266.9675000000302,1.6,1.3,1.1,1.4,1.5,0.6,1.3,1.3,1.3,1.6,1.4
+24,Baetica,random_trade,False,487.285250000026,1.8,1.4,1.4,2.5,2.4,2.0,1.9,1.1,1.3,1.6,1.9
+25,Baetica,random_trade,False,231.83525000003596,1.7,1.6,2.7,1.7,1.6,2.1,2.0,1.0,2.0,1.3,2.1
+26,Baetica,aggressive_trade,False,320.54500000002963,2.4,0.8,2.7,1.6,2.1,1.8,1.3,1.8,2.5,2.3,2.2
+27,Baetica,conservative_trade,False,295.91750000003003,1.2,1.9,1.1,2.3,1.1,1.0,1.6,1.1,1.3,2.2,1.5
+28,Baetica,random_trade,False,344.91300000002616,2.2,2.1,1.8,2.0,1.4,1.2,1.4,1.1,1.2,2.1,1.7
+29,Baetica,aggressive_trade,False,175.80550000002313,2.0,2.7,1.8,2.6,2.4,1.3,2.4,1.5,1.9,2.1,2.4
+30,Baetica,aggressive_trade,False,166.3122500000153,2.4,1.5,3.0,2.1,2.0,3.3,2.0,2.0,2.1,2.7,2.1
+31,Eastern Mediterranean,conservative_trade,False,236.92599999999237,2.3,1.3,1.8,1.3,1.2,1.1,1.2,1.0,1.1,0.9,1.7
+32,Eastern Mediterranean,aggressive_trade,False,158.74775000000585,0.8,2.5,2.0,2.8,1.6,1.8,1.8,2.2,0.8,1.9,2.0
+33,Eastern Mediterranean,random_trade,False,256.2537500000163,1.6,2.1,0.9,1.7,1.7,1.4,1.4,1.4,2.0,1.8,1.8
+34,Eastern Mediterranean,random_trade,False,232.9915000000222,1.5,1.7,1.9,1.2,2.0,1.2,1.8,1.8,1.6,1.3,1.3
+35,Eastern Mediterranean,aggressive_trade,False,274.5135000000044,1.2,1.5,2.7,1.5,2.5,1.6,1.6,2.9,1.7,2.4,2.0
+36,Eastern Mediterranean,conservative_trade,False,166.92525000001808,1.7,1.9,1.3,0.7,1.4,1.3,1.6,1.3,0.8,1.3,1.5
+37,Eastern Mediterranean,aggressive_trade,False,169.62425000001016,2.3,1.5,1.8,1.8,2.3,2.2,1.6,2.9,1.7,1.9,1.6
+38,Eastern Mediterranean,aggressive_trade,False,198.5805000000077,2.3,0.8,2.6,2.5,1.8,2.1,1.3,2.3,1.9,2.2,2.0
+39,Eastern Mediterranean,aggressive_trade,False,211.60625000000908,2.1,1.5,2.0,1.9,2.0,2.4,1.7,3.5,2.3,2.2,1.0
+40,Eastern Mediterranean,conservative_trade,False,341.37250000001944,1.4,1.2,1.6,1.3,1.3,1.3,1.6,1.0,1.3,1.5,1.4
+41,Egypt,random_trade,False,169.202000000012,1.5,1.6,1.4,2.4,2.3,1.5,0.8,1.4,1.6,1.9,1.7
+42,Egypt,aggressive_trade,False,151.25800000001112,2.2,2.4,1.5,2.2,1.6,2.3,2.3,1.5,1.7,1.2,2.2
+43,Egypt,aggressive_trade,False,366.483250000021,1.7,2.2,2.1,1.8,1.2,3.8,1.2,1.9,1.7,1.8,2.5
+44,Egypt,conservative_trade,False,207.61675000001588,1.5,1.3,1.0,1.7,0.7,0.8,1.5,0.7,1.8,1.8,1.5
+45,Egypt,conservative_trade,False,179.38375000001642,1.8,0.9,1.1,1.9,1.6,1.4,1.1,1.3,0.9,2.2,0.9
+46,Egypt,aggressive_trade,False,256.1922500000081,2.1,1.7,1.4,3.3,2.4,1.8,2.6,2.2,1.6,1.2,2.1
+47,Egypt,random_trade,False,293.85475000001,2.1,1.4,1.1,1.3,2.0,2.5,1.1,2.0,1.9,1.3,2.1
+48,Egypt,conservative_trade,False,188.87450000000754,1.6,1.5,1.4,0.8,2.0,1.7,1.3,1.4,1.3,1.3,0.5
+49,Egypt,aggressive_trade,False,238.47499999999346,2.2,2.2,1.7,2.3,2.9,2.5,1.2,2.4,1.6,1.9,2.1
+50,Egypt,random_trade,False,306.8192500000132,1.4,2.7,1.6,1.5,1.9,1.5,1.1,1.5,1.6,2.0,1.5
+51,Gallia,aggressive_trade,False,369.8100000000147,3.1,2.3,1.4,2.2,2.7,2.5,2.7,2.0,1.9,2.4,2.0
+52,Gallia,aggressive_trade,False,189.88875000001184,2.8,1.9,3.3,2.8,2.9,1.5,2.8,2.2,1.8,2.3,2.5
+53,Gallia,aggressive_trade,False,272.80975000000024,1.1,2.2,1.5,3.7,2.6,2.6,2.0,3.4,2.5,2.1,3.0
+54,Gallia,aggressive_trade,False,296.7470000000174,2.4,1.8,1.6,1.2,2.9,3.0,2.6,3.6,2.3,2.6,2.7
+55,Gallia,aggressive_trade,False,245.66900000000783,3.3,2.6,2.7,3.0,1.8,1.7,2.4,2.5,2.3,2.0,2.2
+56,Gallia,conservative_trade,False,166.33625000001683,1.6,2.5,2.0,1.2,0.8,1.5,1.6,1.5,1.4,1.3,1.2
+57,Gallia,aggressive_trade,False,261.0572500000106,2.6,2.9,2.7,2.6,2.7,1.5,2.7,2.3,2.7,2.8,2.3
+58,Gallia,aggressive_trade,False,258.5172500000147,2.6,2.6,2.5,2.5,1.3,2.5,2.7,1.7,4.5,2.9,2.2
+59,Gallia,aggressive_trade,False,228.64775000002436,3.2,1.9,2.4,2.1,2.0,2.0,1.4,2.2,3.1,2.6,2.5
+60,Gallia,conservative_trade,False,131.68450000003045,1.2,1.5,1.0,1.9,1.5,1.1,1.2,1.8,1.4,1.8,2.0
+61,Iberian Peninsula,aggressive_trade,False,236.88300000000942,2.6,2.9,1.2,2.5,2.2,2.3,2.7,1.9,2.2,2.3,2.6
+62,Iberian Peninsula,aggressive_trade,False,210.7300000000143,2.3,1.6,1.7,2.3,2.7,1.8,1.6,1.6,2.0,2.7,2.4
+63,Iberian Peninsula,conservative_trade,False,127.37825000003609,1.1,1.5,1.5,1.2,1.3,1.7,1.7,1.7,1.7,1.0,2.1
+64,Iberian Peninsula,aggressive_trade,False,160.00825000002362,1.5,2.8,1.9,2.1,2.3,2.3,1.4,2.1,2.1,2.7,1.9
+65,Iberian Peninsula,conservative_trade,False,260.73950000002503,1.0,1.0,1.3,0.8,1.6,1.8,2.0,2.0,0.6,1.2,2.1
+66,Iberian Peninsula,random_trade,False,144.705000000025,1.8,2.2,1.7,2.0,1.4,2.0,1.9,1.9,1.6,1.4,2.0
+67,Iberian Peninsula,random_trade,False,180.96275000002748,1.3,1.7,2.0,2.4,1.2,1.9,1.9,1.9,1.6,1.9,2.1
+68,Iberian Peninsula,conservative_trade,False,138.86300000002268,1.7,1.9,1.8,1.6,1.3,0.8,1.9,1.2,0.5,1.5,1.0
+69,Iberian Peninsula,random_trade,False,273.5640000000414,2.0,1.2,2.6,2.5,2.0,0.9,1.6,2.5,2.7,1.4,2.4
+70,Iberian Peninsula,conservative_trade,False,164.10950000003817,1.1,2.1,0.7,1.1,1.4,1.7,1.8,1.4,1.2,2.0,1.1
+71,North Africa,conservative_trade,False,188.35675000003067,1.7,1.2,1.5,0.6,1.7,1.2,1.1,1.7,1.6,1.1,1.4
+72,North Africa,random_trade,False,221.50200000001286,1.6,2.1,1.9,1.4,1.6,1.9,1.5,2.3,2.2,1.5,2.5
+73,North Africa,random_trade,False,260.0092500000252,1.9,1.8,2.0,2.0,2.3,1.5,2.6,2.1,1.9,1.9,1.5
+74,North Africa,random_trade,False,175.54075000001936,1.4,1.6,1.5,1.7,2.5,2.7,1.5,2.3,2.6,2.7,1.0
+75,North Africa,random_trade,False,182.184000000002,1.8,2.5,1.6,2.0,1.9,2.3,1.5,2.5,1.6,1.5,2.0
+76,North Africa,aggressive_trade,False,414.48325000001813,2.3,2.2,2.3,2.3,3.1,1.8,1.9,1.6,2.1,2.1,2.8
+77,North Africa,aggressive_trade,False,193.59000000002408,2.4,1.9,2.7,1.5,2.0,2.0,2.7,1.8,2.4,2.9,2.2
+78,North Africa,aggressive_trade,False,363.17650000001356,1.8,2.0,3.0,1.7,1.8,1.6,2.6,3.2,2.7,1.7,1.8
+79,North Africa,conservative_trade,False,123.47975000002539,1.3,1.8,1.6,1.9,0.9,1.7,1.7,1.4,1.2,1.5,1.4
+80,North Africa,random_trade,False,191.48625000002204,1.5,2.0,1.7,3.1,2.0,2.0,1.3,1.8,1.4,1.2,2.4
+81,Tarraconensis,random_trade,False,297.1825000000069,2.5,2.3,1.5,2.2,1.5,1.2,2.1,1.5,1.6,2.6,1.3
+82,Tarraconensis,conservative_trade,False,164.27600000004287,1.7,1.4,1.8,1.2,1.5,0.5,2.2,1.1,1.9,1.6,0.6
+83,Tarraconensis,random_trade,False,285.88200000003116,1.5,2.3,2.3,0.7,1.7,1.8,2.5,2.2,1.9,2.3,1.2
+84,Tarraconensis,random_trade,False,157.579500000029,2.4,1.9,1.4,1.7,1.9,2.3,2.5,1.8,1.9,1.6,1.7
+85,Tarraconensis,aggressive_trade,False,253.53350000001106,1.7,2.1,1.8,3.0,2.6,2.0,2.8,1.6,2.8,1.9,2.2
+86,Tarraconensis,conservative_trade,False,222.5820000000445,1.5,1.0,0.8,1.3,1.0,2.0,1.3,1.7,1.7,1.0,1.8
+87,Tarraconensis,random_trade,False,252.94500000002364,2.1,1.9,1.3,2.4,2.1,1.4,2.0,1.5,1.9,2.6,1.9
+88,Tarraconensis,conservative_trade,False,192.7885000000421,2.4,1.3,0.8,1.2,1.1,1.5,1.2,1.2,2.1,1.5,1.5
+89,Tarraconensis,aggressive_trade,False,175.08175000002004,2.3,2.2,2.1,2.8,2.1,3.6,1.3,1.8,2.3,2.5,2.2
+90,Tarraconensis,aggressive_trade,False,251.31925000001593,1.4,3.1,2.9,2.4,3.1,2.2,1.7,1.7,2.6,2.2,2.6
+91,Western Mediterranean,aggressive_trade,False,375.18775000001665,2.9,2.3,2.5,1.8,1.6,2.0,1.7,2.9,3.0,1.7,2.1
+92,Western Mediterranean,conservative_trade,False,312.19525000003034,2.1,1.2,0.9,1.2,1.6,1.2,1.3,1.7,0.7,1.6,1.0
+93,Western Mediterranean,conservative_trade,False,162.26625000001644,1.4,2.0,0.9,1.4,1.2,1.2,1.4,2.1,1.2,1.1,1.4
+94,Western Mediterranean,conservative_trade,False,374.8010000000443,1.0,1.4,1.9,0.8,1.0,1.5,1.4,1.3,0.9,2.0,1.8
+95,Western Mediterranean,conservative_trade,False,154.6047500000419,1.6,1.0,1.7,2.0,1.7,1.3,1.0,1.1,1.4,1.4,1.6
+96,Western Mediterranean,random_trade,False,187.13575000003306,1.6,2.1,2.7,1.6,2.0,1.9,1.7,2.4,1.2,1.4,1.7
+97,Western Mediterranean,conservative_trade,False,429.44000000002353,1.6,2.0,1.5,1.2,1.4,1.7,1.0,1.0,1.0,1.6,1.3
+98,Western Mediterranean,aggressive_trade,False,289.7157500000305,2.7,2.9,1.9,2.4,1.9,1.9,2.3,2.4,2.0,1.8,2.8
+99,Western Mediterranean,conservative_trade,False,144.17050000004505,1.9,1.6,1.6,0.7,1.3,1.6,1.1,1.8,1.4,1.1,1.2
+100,Western Mediterranean,random_trade,False,232.71825000003614,0.5,1.7,2.9,1.6,2.4,3.0,1.4,1.7,2.2,1.8,1.8
+101,Italy,random_trade,False,305.10125000001364,1.5,1.7,2.8,2.3,1.9,2.1,1.5,2.2,1.5,1.5,2.5
+102,Italy,conservative_trade,False,185.62000000003576,1.5,1.0,1.7,1.5,1.3,1.8,1.7,1.9,1.1,0.8,1.5
+103,Italy,random_trade,False,302.7867500000201,2.0,2.2,1.4,1.8,2.8,2.2,2.0,2.8,2.2,1.7,1.5
+104,Italy,conservative_trade,False,188.08450000003194,1.3,1.1,1.1,1.2,2.5,2.0,1.2,1.0,1.3,1.6,1.7
+105,Italy,random_trade,False,291.76400000001576,1.0,1.5,2.6,1.4,1.5,2.1,3.1,1.8,1.4,1.2,2.7
+106,Italy,random_trade,False,178.5237500000109,2.9,2.8,2.4,2.2,1.3,1.4,2.8,1.1,2.3,1.9,1.8
+107,Italy,aggressive_trade,False,228.0822500000126,2.5,2.3,2.5,2.5,3.0,2.5,2.5,2.5,1.6,2.8,2.3
+108,Italy,aggressive_trade,False,185.66625000001196,2.2,2.4,2.6,2.5,2.6,1.9,3.8,2.2,2.4,2.9,3.0
+109,Italy,aggressive_trade,False,237.17150000001297,2.4,2.2,2.6,2.5,3.1,2.5,1.6,2.8,2.6,2.3,2.3
+110,Italy,aggressive_trade,False,154.3220000000102,2.6,2.1,2.8,2.8,3.2,2.1,3.3,2.2,2.1,2.6,3.5
